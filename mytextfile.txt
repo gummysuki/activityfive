@@ -1,2 +1,4 @@
 hello this is my first text file in activity 5
 this is a message from collaborator
+
+- new text from local
